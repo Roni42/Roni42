@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! I'm Roni🌸
 
-<!--
-**Roni42/Roni42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This repository is made to illustrate my personal projects that i find indicative**
 
-Here are some ideas to get you started:
+🌱First of all, i'm second year student of CS in ITMO university, st.Petersburg🌱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+>[_My school projects✨_](../c-graphics/README.md) <!-- \x03, cgsg forever -->
+
+>[_My uni projects✨_](../cpp-course/README.md) 
+
+
+#
+#
+#
+i should add smth here~
