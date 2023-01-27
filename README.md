@@ -5,12 +5,12 @@
 🌱First of all, i'm second year student of CS in ITMO university, st.Petersburg🌱
 
 
->[_My school projects✨_](../c-graphics/README.md) <!-- \x03, cgsg forever -->
+>[_My school projects✨_](https://github.com/Roni42/c-graphics/blob/main/README.md) <!-- \x03, cgsg forever -->
 
->[_My uni projects✨_](../cpp-course/README.md) 
+>[_My uni projects✨_](https://github.com/Roni42/cpp-course/blob/main/README.md)
 
 
-#
-#
-#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roni42)](https://github.com/Roni42/ithub-readme-stats)
+
+
 i should add smth here~
