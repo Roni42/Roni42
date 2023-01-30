@@ -1,8 +1,8 @@
 ### Hi! I'm Roni🌸
 
-**This repository is made to illustrate my personal projects that i find indicative**
-
 🌱First of all, i'm second year student of CS in ITMO university, st.Petersburg🌱
+
+**This repository is made to illustrate my personal projects that i find indicative**
 
 
 >[_My school projects✨_](https://github.com/Roni42/c-graphics/blob/main/README.md) <!-- \x03, cgsg forever -->
