@@ -13,4 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roni42)](https://github.com/Roni42/ithub-readme-stats)
 
 
+![Alt text](https://github.com/Roni42/Roni42/blob/main/me.jpg?raw=true)
+
+
 i should add smth here~
