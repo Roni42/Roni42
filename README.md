@@ -12,6 +12,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roni42)](https://github.com/Roni42/ithub-readme-stats)
 
-<img src="https://github.com/Roni42/Roni42/blob/main/me.jpg" width=50% height=50%>
+<!-- <img src="https://github.com/Roni42/Roni42/blob/main/me.jpg" width=50% height=50%> 
 
-i should add smth here~
+i should add smth here~ -->
