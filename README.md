@@ -1,6 +1,6 @@
 ### Hi! I'm Roni🌸
 
-🌱First of all, i'm second year student of CS in ITMO university, st.Petersburg🌱
+🌱First of all, i'm 4th year student of CS in ITMO university, st.Petersburg🌱
 
 **This repository is made to illustrate my personal projects that i find indicative**
 
